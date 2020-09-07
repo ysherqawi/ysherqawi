@@ -21,20 +21,20 @@ I am a web developer, currently pursuing my masters's degree majoring in web sci
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux&logoColor=764abc)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=563D7C)
-![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
-![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
+![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-white?style=flat-square&logo=redux&logoColor=764abc)
+![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-white?style=flat-square&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=bootstrap&logoColor=563D7C)
+![Sass](https://img.shields.io/badge/-Sass-white?style=flat-square&logo=sass)
+![NPM](https://img.shields.io/badge/-NPM-white?style=flat-square&logo=npm)
+![Postman](https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman)
+![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github&logoColor=000)
 
 </br>
 
