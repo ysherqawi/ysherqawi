@@ -1,4 +1,4 @@
-# Hi there, I'm [Yasser!](https://ysherqawi.github.io) <img src="https://github.com/ysherqawi/ysherqawi/blob/master/assets/wave.gif" width="40px" ></img>
+# Hi there <img src="https://github.com/ysherqawi/ysherqawi/blob/master/assets/wave.gif" width="40px" ></img>, I'm [Yasser!](https://ysherqawi.github.io)   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ysherqawi.ysherqawi"/> 
 
 I am a web developer, currently pursuing my masters's degree majoring in web science. I am passionate about web development, creating effective solutions, and learning every day to grow professionally in the IT field.
 
@@ -38,7 +38,7 @@ I am a web developer, currently pursuing my masters's degree majoring in web sci
 
 </br>
 
-## 📈 My GitHub Stats
+## 📊 My GitHub Stats
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -50,10 +50,13 @@ I am a web developer, currently pursuing my masters's degree majoring in web sci
 </a>
 </div>
 
+## 💻 Latest Projects:
+
 <div align="center">
 <a href="https://github.com/ysherqawi/developer-portfolio">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=developer-portfolio" />
+  <img style='margin-right:10px'  src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=developer-portfolio" />
+</a>
+  <a href="https://github.com/ysherqawi/covid19-tracker">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=covid19-tracker" />
 </a>
 </div>
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=ysherqawi.ysherqawi)
