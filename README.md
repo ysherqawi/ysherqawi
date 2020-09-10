@@ -50,7 +50,7 @@ I am a web developer, currently pursuing my masters's degree majoring in web sci
 </a>
 </div>
 
-## 💻 Latest Projects:
+## 💻 Latest Projects
 
 <div align="center">
 <a href="https://github.com/ysherqawi/developer-portfolio">
