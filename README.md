@@ -2,7 +2,7 @@
 
 I am a web developer, currently pursuing my masters's degree majoring in web science. I am passionate about web development, creating effective solutions, and learning every day to grow professionally in the IT field.
 
-[![Linkedin Badge](https://img.shields.io/badge/-ysherqawi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ysherqawi/)](https://www.linkedin.com/in/yassersherqawi/)
+[![Linkedin Badge](https://img.shields.io/badge/-ysherqawi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ysherqawi)](https://www.linkedin.com/in/ysherqawi)
 [![Gmail Badge](https://img.shields.io/badge/-ysherqawi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ysherqawi@gmail.com)](mailto:ysherqawi@gmail.com)
 
 <img align="right" style='
