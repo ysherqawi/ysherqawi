@@ -2,7 +2,7 @@
 
 I am a web developer, currently pursuing my masters's degree majoring in web science. I am passionate about web development, creating effective solutions, and learning every day to grow professionally in the IT field.
 
-[![Linkedin Badge](https://img.shields.io/badge/-yassersherqawi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yassersherqawi/)](https://www.linkedin.com/in/yassersherqawi/)
+[![Linkedin Badge](https://img.shields.io/badge/-ysherqawi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ysherqawi/)](https://www.linkedin.com/in/yassersherqawi/)
 [![Gmail Badge](https://img.shields.io/badge/-ysherqawi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ysherqawi@gmail.com)](mailto:ysherqawi@gmail.com)
 
 <img align="right" style='
@@ -13,7 +13,7 @@ I am a web developer, currently pursuing my masters's degree majoring in web sci
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I’m currently learning MySQL
+- 🌱 I’m currently learning something new
 - 💬 Ask me about video games, movies and football
 - ⚡ Fun fact: I'm a huge football fan
 
