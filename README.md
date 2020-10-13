@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/ysherqawi/ysherqawi/blob/master/assets/wave.gif" width="40px" ></img>, I'm [Yasser!](https://ysherqawi.github.io)   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ysherqawi.ysherqawi"/> 
+# Hi there <img src="https://github.com/ysherqawi/ysherqawi/blob/master/assets/wave.gif" width="40px" ></img>, I'm [Yasser!](https://ysherqawi.github.io)   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ysherqawi.ysherqawi"/>
 
 I am a web developer, currently pursuing my masters's degree majoring in web science. I am passionate about web development, creating effective solutions, and learning every day to grow professionally in the IT field.
 
@@ -15,7 +15,7 @@ I am a web developer, currently pursuing my masters's degree majoring in web sci
 - 👨🏽‍💻 I’m currently working on something cool <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning something new
 - 💬 Ask me about video games, movies and football
-- ⚡ Fun fact: I'm a huge football fan
+- ⚡ Fun fact: My first line of code was not "Hello World!"
 
 </br>
 
