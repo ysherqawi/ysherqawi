@@ -56,7 +56,7 @@ I am a web developer, currently pursuing my masters's degree majoring in web sci
 <a href="https://github.com/ysherqawi/developer-portfolio">
   <img style='margin-right:10px'  src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=developer-portfolio" />
 </a>
-  <a href="https://github.com/ysherqawi/covid19-tracker">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=covid19-tracker" />
+  <a href="https://github.com/ysherqawi/proshop">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=proshop" />
 </a>
 </div>
