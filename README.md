@@ -5,17 +5,19 @@ I am a web developer, currently pursuing my masters's degree majoring in web sci
 [![Linkedin Badge](https://img.shields.io/badge/-ysherqawi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ysherqawi)](https://www.linkedin.com/in/ysherqawi)
 [![Gmail Badge](https://img.shields.io/badge/-ysherqawi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ysherqawi@gmail.com)](mailto:ysherqawi@gmail.com)
 
-<img align="right" style='
-  border-radius: 50%' width='425' height='375'  src="https://github.com/ysherqawi/ysherqawi/blob/master/assets/developer.gif"  />
+<img align="right" width="425" height="375" src="https://github.com/ysherqawi/ysherqawi/blob/master/assets/developer.gif"  />
 
 </br>
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I’m currently learning something new
-- 💬 Ask me about video games, movies and football
-- ⚡ Fun fact: My first line of code was not "Hello World!"
+👨🏽‍💻 I’m currently working on something cool <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+
+🌱 I’m currently learning something new
+
+💬 Ask me about video games, movies and football
+
+⚡ Fun fact: My first line of code was not "Hello World!"
 
 </br>
 
@@ -41,22 +43,21 @@ I am a web developer, currently pursuing my masters's degree majoring in web sci
 ## 📊 My GitHub Stats
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api?username=ysherqawi&count_private=true&show_icons=true&include_all_commits=true" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysherqawi" />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img  src="https://github-readme-stats.vercel.app/api?username=ysherqawi&count_private=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysherqawi" />
+  </a>
 </div>
 
 ## 💻 Latest Projects
 
 <div align="center">
-<a href="https://github.com/ysherqawi/developer-portfolio">
-  <img style='margin-right:10px'  src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=developer-portfolio" />
-</a>
+  <a href="https://github.com/ysherqawi/developer-portfolio">
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=developer-portfolio" />
+  </a>
   <a href="https://github.com/ysherqawi/proshop">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=proshop" />
-</a>
+    <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=proshop" />
+  </a>
 </div>
