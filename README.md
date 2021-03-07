@@ -17,7 +17,7 @@
 Hi, I'm Yasser Sherqawi, from Palestine. Currently, I'm pursuing my master's degree majoring in web sciences,and seeking a developer role, where I can utilize my skills, put my learning into practice, make a contribution, and learning every day to grow professionally in the IT field. When I'm not coding, you'll find me playing video games 🎮, watching football ⚽, listening to music 🎼 or watching movies 🎬.
 </p>
 
-<img src="https://github.com/ysherqawi/ysherqawi/blob/master/developer.gif" alt="A Developer Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="550" height="390"  />
+<img src="https://github.com/ysherqawi/ysherqawi/blob/master/images/developer.gif" alt="A Developer Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="550" height="390"  />
 
 <br/>
 
