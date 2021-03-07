@@ -1,62 +1,77 @@
-# Hi there <img src="https://github.com/ysherqawi/ysherqawi/blob/master/assets/wave.gif" width="40px" ></img>, I'm [Yasser!](https://ysherqawi.github.io)   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ysherqawi.ysherqawi"/>
+# Hey there <img src="https://github.com/ysherqawi/ysherqawi/blob/master/images/wave.gif" alt="Waving Hand" width="40">, I'm [Yasser!](https://ysherqawi.github.io)
 
-I am a web developer, currently pursuing my masters's degree majoring in web science. I am passionate about web development, creating effective solutions, and learning every day to grow professionally in the IT field.
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ysherqawi.ysherqawi" alt="Number of Yasser's Profile Visitors" align="right" />
 
-[![Linkedin Badge](https://img.shields.io/badge/-ysherqawi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ysherqawi)](https://www.linkedin.com/in/ysherqawi)
-[![Gmail Badge](https://img.shields.io/badge/-ysherqawi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ysherqawi@gmail.com)](mailto:ysherqawi@gmail.com)
+<div align="left">
+  <a href="https://www.linkedin.com/in/ysherqawi">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Yasser's LinkdeIn" width="30"/>
+  </a>
+  <a href="mailto:ysherqawi@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Yasser's Email" width="30" />
+  </a>
+</div>
 
-<img align="right" style='
-  border-radius: 50%' width='425' height='375'  src="https://github.com/ysherqawi/ysherqawi/blob/master/assets/developer.gif"  />
+<br/>
 
-</br>
+<p align="left">
+Hi, I'm Yasser Sherqawi, from Palestine. Currently, I'm pursuing my master's degree majoring in web sciences,and seeking a developer role, where I can utilize my skills, put my learning into practice, make a contribution, and learning every day to grow professionally in the IT field. When I'm not coding, you'll find me playing video games 🎮, watching football ⚽, listening to music 🎼 or watching movies 🎬.
+</p>
+
+<img src="https://github.com/ysherqawi/ysherqawi/blob/master//developer.gif" alt="A Developer Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="550" height="390"  />
+
+<br/>
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🌱 I’m currently learning something new
-- 💬 Ask me about video games, movies and football
-- ⚡ Fun fact: My first line of code was not "Hello World!"
+<div align="left">
 
-</br>
+👨🏽‍💻 I’m currently working on something cool <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="40">
+📝  I’m currently learning React Native
+💬  Ask me about anything, I am happy to help
+📫  How to reach me: [@ysherqawi](https://www.linkedin.com/in/ysherqawi/)
+⚡ Fun fact: My first line of code was not "Hello World!"
+
+</div>
+
+<br/>
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
-![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-white?style=flat-square&logo=redux&logoColor=764abc)
-![HTML5](https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-white?style=flat-square&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=bootstrap&logoColor=563D7C)
-![Sass](https://img.shields.io/badge/-Sass-white?style=flat-square&logo=sass)
-![NPM](https://img.shields.io/badge/-NPM-white?style=flat-square&logo=npm)
-![Postman](https://img.shields.io/badge/-Postman-white?style=flat-square&logo=postman)
-![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-white?style=flat-square&logo=github&logoColor=000)
+<div>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript Icon" width="35">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJs Icon" width="35">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB Icon" width="35">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL Icon" width="35">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MYSQL Icon" width="35" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React Icon" width="35">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux Icon" width="35">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML Icon" width="35">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS Icon" width="35">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS Icon" width="35">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap Icon" width="35">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="NPM Icon" width="35">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT Icon" width="35">
+  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github Icon" width="35"/>
+</div>
 
-</br>
+<br/>
 
 ## 📊 My GitHub Stats
 
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api?username=ysherqawi&count_private=true&show_icons=true&include_all_commits=true" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysherqawi" />
-</a>
+<div align="left">
+  <img alt="Yasser's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ysherqawi&count_private=true&show_icons=true" />
+  <img alt="Yasser's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysherqawi" />
 </div>
+
+<br/>
 
 ## 💻 Latest Projects
 
-<div align="center">
-<a href="https://github.com/ysherqawi/developer-portfolio">
-  <img style='margin-right:10px'  src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=developer-portfolio" />
-</a>
+<div align="left">
+  <a href="https://github.com/ysherqawi/developer-portfolio">
+    <img alt="Developer Portfolio Repo Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=developer-portfolio" />
+  </a>
   <a href="https://github.com/ysherqawi/proshop">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=proshop" />
-</a>
+    <img alt="ProShop Repo Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=proshop" />
+  </a>
 </div>
