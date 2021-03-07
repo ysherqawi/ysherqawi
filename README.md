@@ -26,13 +26,13 @@ Hi, I'm Yasser Sherqawi, from Palestine. Currently, I'm pursuing my master's deg
 
 <div align="left">
 
- 👨🏽‍💻 I’m currently working on something cool <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="40">
+ - 👨🏽‍💻 I’m currently working on something cool <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="40">
 
-📝  I’m currently learning React Native
+- 📝  I’m currently learning React Native
 
-💬  Ask me about anything, I am happy to help
+- 💬  Ask me about anything, I am happy to help
 
-📫  How to reach me: [@ysherqawi](https://www.linkedin.com/in/ysherqawi/)
+- 📫  How to reach me: [@ysherqawi](https://www.linkedin.com/in/ysherqawi/)
 
 </div>
 
