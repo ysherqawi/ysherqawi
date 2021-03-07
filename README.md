@@ -24,6 +24,7 @@ When I'm not coding, you'll find me playing video games 🎮, watching football 
 <br/>
 <br/>
 <br/>
+<br/>
 
 **Talking about Personal Stuffs:**
 
@@ -60,6 +61,7 @@ When I'm not coding, you'll find me playing video games 🎮, watching football 
 </div>
 
 <br/>
+<br/>
 
 ## 📊 My GitHub Stats
 
@@ -68,6 +70,7 @@ When I'm not coding, you'll find me playing video games 🎮, watching football 
   <img alt="Yasser's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysherqawi" />
 </div>
 
+<br/>
 <br/>
 
 ## 💻 Latest Projects
