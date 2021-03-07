@@ -22,6 +22,7 @@ When I'm not coding, you'll find me playing video games 🎮, watching football 
 <img src="https://github.com/ysherqawi/ysherqawi/blob/master/images/developer.gif" alt="A Developer Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="475" height="350" />
 
 <br/>
+<br/>
 
 **Talking about Personal Stuffs:**
 
