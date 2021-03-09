@@ -30,10 +30,10 @@ When I'm not coding, You'll find me playing video games🎮, Watching football�
 
 <div align="left">
 
- - 👨🏽‍💻 I’m currently working on something cool <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="40">
-- 📝  I’m currently learning React Native
-- 💬  Ask me about anything, I am happy to help
-- 📫  How to reach me: [@ysherqawi](https://www.linkedin.com/in/ysherqawi/)
+- 👨🏽‍💻 I’m currently working on something cool <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="40">.
+- 📝  I’m currently learning React Native & German.
+- 💬  Ask me about anything, I am happy to help.
+- 📫  How to reach me: [@ysherqawi](https://www.linkedin.com/in/ysherqawi/).
 
 </div>
 
