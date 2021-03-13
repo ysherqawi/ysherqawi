@@ -15,7 +15,7 @@
 <br/>
 
 <p align="left">
-Hi, I'm Yasser Sherqawi, Currently, I'm pursuing my master's degree majoring in web sciences and seeking a developer role, Where I can utilize my skills, Put my learning into practice, Make a contribution, and learning every day to grow professionally in the IT field.
+Hi, I'm Yasser Sherqawi, Currently, I'm pursuing my master's degree majoring in web sciences and looking for a job opportunity, Where I can utilize my skills, Put my learning into practice, Make a contribution, and learning every day to grow professionally in the IT field.
 When I'm not coding, You'll find me playing video games🎮, Watching football⚽, Listening to music🎼, or watching movies🎬.
 </p>
 
