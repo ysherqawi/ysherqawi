@@ -15,8 +15,12 @@
 <br/>
 
 <p align="left">
-Hi, I'm Yasser Sherqawi, Currently, I'm pursuing my master's degree majoring in web sciences and looking for a position, Where I can utilize my skills, Put my learning into practice, Make a contribution, and learning every day to grow professionally in the IT field.
-When I'm not coding, You'll find me playing video games🎮, Watching football⚽, Listening to music🎼, or watching movies🎬.
+Hi, I'm Yasser Sherqawi. I'm an enthusiastic, motivated developer. seeking to apply and expand my knowledge
+and skills towards working in a collaborative environment. where I can make a contribution, and learning every day
+to grow professionally in the IT field.
+</p>
+<p align="left">
+When I'm not coding, you'll find me playing video games🎮, watching football⚽, listening to music🎼, or watching movies🎬.
 </p>
 
 <img src="https://github.com/ysherqawi/ysherqawi/blob/master/images/developer.gif" alt="A Developer Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="475" height="350" />
