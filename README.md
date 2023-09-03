@@ -15,12 +15,7 @@
 <br/>
 
 <p align="left">
-Hi, I'm Yasser Sherqawi. I'm an enthusiastic, motivated developer. seeking to apply and expand my knowledge
-and skills towards working in a collaborative environment. where I can make a contribution, and learning every day
-to grow professionally in the IT field.
-</p>
-<p align="left">
-When I'm not coding, you'll find me playing video games🎮, watching football⚽, listening to music🎼, or watching movies🎬.
+A curious learner and result-oriented individual interested in the role of a software developer, where I can expand and apply the skills and knowledge acquired through continuous personal development to design and create quality software solutions that contribute towards achieving the company’s vision and goals.
 </p>
 
 <img src="https://github.com/ysherqawi/ysherqawi/blob/master/images/developer.gif" alt="A Developer Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="475" height="350" />
@@ -34,7 +29,7 @@ When I'm not coding, you'll find me playing video games🎮, watching football�
 
 <div align="left">
 
-- 👨🏽‍💻 I’m currently working on something cool <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="40">
+- 👨🏽‍💻 I’m currently looking for a job as a nestjs developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="40">
 - 📝  I’m currently learning Docker
 - 💬  Ask me about anything, I am happy to help
 - 📫  How to reach me: [@ysherqawi](https://www.linkedin.com/in/ysherqawi/)
@@ -42,7 +37,9 @@ When I'm not coding, you'll find me playing video games🎮, watching football�
 </div>
 
 <br/>
+
 <br/>
+
 <br/>
 
 ## ⚡ Technologies
@@ -83,10 +80,11 @@ When I'm not coding, you'll find me playing video games🎮, watching football�
 ## 💻 Latest Projects
 
 <div align="left">
+  <a href="https://github.com/ysherqawi/realtor-app">
+    <img alt="Realtor App Repo Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=realtor-app" />
+  </a>
   <a href="https://github.com/ysherqawi/developer-portfolio">
     <img alt="Developer Portfolio Repo Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=developer-portfolio" />
   </a>
-  <a href="https://github.com/ysherqawi/proshop">
-    <img alt="ProShop Repo Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=proshop" />
-  </a>
+
 </div>
