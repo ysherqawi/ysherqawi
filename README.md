@@ -12,7 +12,6 @@
 </div>
 
 <br/>
-<br/>
 
 <p align="left">
 A curious learner and result-oriented individual interested in the role of a software developer, where I can expand and apply the skills and knowledge acquired through continuous personal development to design and create quality software solutions that contribute towards achieving the company’s vision and goals.
@@ -22,8 +21,6 @@ A curious learner and result-oriented individual interested in the role of a sof
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 **Talking about Personal Stuffs:**
 
@@ -31,13 +28,9 @@ A curious learner and result-oriented individual interested in the role of a sof
 
 - 👨🏽‍💻 software developer at [misraj](https://misraj.sa/) <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFWVoU7lNkrlw/company-logo_200_200/company-logo_200_200/0/1730022175697/misrajtech_logo?e=2147483647&v=beta&t=5WRX5zgSFSGWW2T8aDbtXjfpvDATAH1rL6ykcq2Ta0k" height="25" width="25"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="35">
 - 💬  Ask me about anything, I am happy to help
-- 📫  How to reach me: [@ysherqawi](https://www.linkedin.com/in/ysherqawi/)
+- 📫  How to reach me: [@ysherqawi](mailto:ysherqawi@gmail.com)
 
 </div>
-
-<br/>
-
-<br/>
 
 <br/>
 
