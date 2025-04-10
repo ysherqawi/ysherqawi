@@ -63,6 +63,9 @@ A curious learner and result-oriented individual interested in the role of a sof
 ## 💻 Latest Projects
 
 <div align="left">
+    <a href="https://github.com/ysherqawi/news-app">
+    <img alt="Developer Portfolio Repo Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=news-app" />
+  </a>
   <a href="https://github.com/ysherqawi/developer-portfolio">
     <img alt="Developer Portfolio Repo Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=developer-portfolio" />
   </a>
