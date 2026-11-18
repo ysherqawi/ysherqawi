@@ -14,7 +14,7 @@
 <br/>
 
 <p align="left">
-A curious learner and result-oriented individual interested in the role of a software developer, where I can expand and apply the skills and knowledge acquired through continuous personal development to design and create quality software solutions that contribute towards achieving the company’s vision and goals.
+Driven by a strong interest in backend engineering, I specialize in API design, system performance optimization, and transforming complex concepts into reliable solutions. Currently working at Misraj Technology, building scalable and maintainable backend systems using TypeScript, NestJS, and PostgreSQL, with a strong focus on clean architecture and efficient data handling.
 </p>
 
 <img src="https://github.com/ysherqawi/ysherqawi/blob/master/images/developer.gif" alt="A Developer Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="465" height="365" />
